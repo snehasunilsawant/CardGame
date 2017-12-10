@@ -1,2 +1,6 @@
-# CardGame
-Deck of cards
+CardGame
+#DeckofCards
+
+ Project was focused on scalable design than implementation/logic. 
+ 
+ 
